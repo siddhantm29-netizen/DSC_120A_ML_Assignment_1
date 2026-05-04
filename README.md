@@ -19,6 +19,8 @@ Key fields include:
 Order_ID, Order_Date, Customer_Segment, Region, Product_Category, Quantity, Unit_Price, Discount_Percent, Total_Sales, Shipping_Cost, Profit, etc.
 
 project/
+|
+code/
 │
 ├── RQ1.ipynb
 ├── RQ2.ipynb
@@ -27,7 +29,8 @@ project/
 ├── RQ5.ipynb
 ├── RQ6.ipynb
 ├── RQ7.ipynb
-│
+|
+charts/
 ├── rq1_outputs/
 ├── rq2_outputs/
 ├── rq3_outputs/
